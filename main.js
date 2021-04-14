@@ -1,4 +1,4 @@
-const obj = require('./learnFiles/从头学puppeteer/pup_mogujie商品详情.js')
+const obj = require('./mainFiles/puppeteer爬取合集/mogujie_分类图.js')
 
 // console.log(obj.data);
 obj.run();
